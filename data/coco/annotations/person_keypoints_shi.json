@@ -17,13 +17,13 @@
     "images": [
         {
             "license": 1,
-            "file_name": "Linus-soccer-2018.jpg",
+            "file_name": "0001.jpg",
             "coco_url": "http://images.cocodataset.org/val2017/000000397133.jpg",
             "height": 427,
             "width": 640,
             "date_captured": "2013-11-14 17:02:52",
             "flickr_url": "http://farm7.staticflickr.com/6116/6255196340_da26cf2c9e_z.jpg",
-            "id": 397133
+            "id": 1
         }
     ],
     "annotations": [
